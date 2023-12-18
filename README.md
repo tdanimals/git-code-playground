@@ -57,3 +57,4 @@ This repository is to be used as a _git playground_ for beginners to practice th
 
 - 🔗 [vscode-icons VS Code Extension](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - 🔗 [Github Themes VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+# git-code-playground
